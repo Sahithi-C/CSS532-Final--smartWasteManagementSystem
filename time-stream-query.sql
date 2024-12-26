@@ -1,0 +1,1 @@
+SELECT * FROM "trash-data-from-raspberry-pi"."distance-data" ORDER BY "time" DESC
